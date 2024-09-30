@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xingchueng
 - 👀 I’m interested in Android
-- 🌱 I’m currently learning TCP/IP
+- 🌱 I’m currently learning TCP/IP again
 - 💞️ I’m looking to collaborate on Android .etc
 - 📫 How to reach me xingchueng@hotmail.com
 
